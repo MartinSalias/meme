@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  MartinSaliad
 
 # Build settings
-theme: Midnight
+theme: minima
 plugins:
   - jekyll-feed
 
